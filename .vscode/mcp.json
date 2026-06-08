@@ -1,0 +1,18 @@
+{
+  "servers": {
+    "travel-rules": {
+      "command": "/ABSOLUTE/PATH/mcp-travel-agent-demo/custom-travel-rules-mcp/.venv/bin/python",
+      "args": [
+        "/ABSOLUTE/PATH/mcp-travel-agent-demo/custom-travel-rules-mcp/travel_rules_server.py"
+      ]
+    },
+    "google-maps": {
+      "type": "http",
+      "url": "https://mapstools.googleapis.com/mcp"
+    },
+    "google-calendar": {
+      "type": "http",
+      "url": "https://calendarmcp.googleapis.com/mcp/v1"
+    }
+  }
+}
