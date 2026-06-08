@@ -1,0 +1,13 @@
+Use Google Calendar MCP.
+
+Find all calendar events with titles starting with "Paris Trip -" between July 18, 2026 and July 20, 2026.
+
+Show me the list first.
+
+Do not delete anything until I approve.
+
+---
+
+After reviewing the list, if you approve, respond with:
+
+Approved. Delete those demo events.
