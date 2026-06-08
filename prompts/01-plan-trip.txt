@@ -1,0 +1,41 @@
+You are my AI travel planner.
+
+Use these MCP servers:
+1. Google Maps MCP for real places, routes, food stops, and travel time.
+2. travel-rules MCP for my travel preferences, itinerary validation, and calendar block formatting.
+
+Plan a relaxed 2-day Paris weekend trip.
+
+Trip details:
+- Destination: Paris, France
+- Trip dates: July 18 to July 20, 2026
+- Arrival: Friday, July 18 at 7:00 PM
+- Departure: Sunday, July 20 at 6:00 PM
+- Food: vegetarian-friendly, casual restaurants, good coffee
+- Pace: relaxed, not rushed
+- Activities: 3 to 4 main activities per day
+- Transport: prefer walking and metro, avoid taxis
+
+Use Google Maps MCP to:
+- find real attractions
+- group attractions by area
+- suggest vegetarian-friendly food stops
+- estimate walking or route time between key places
+
+Use travel-rules MCP to:
+- get my travel preferences
+- validate the itinerary
+- prepare calendar-ready blocks
+
+Important:
+Do not create Google Calendar events yet.
+
+First show me:
+1. The itinerary
+2. Why you grouped places this way
+3. Travel time between major stops
+4. Food suggestions
+5. Validation result from travel-rules MCP
+6. The calendar blocks you plan to create
+
+Then ask for my approval.
