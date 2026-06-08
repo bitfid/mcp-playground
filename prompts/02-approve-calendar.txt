@@ -1,0 +1,19 @@
+Approved.
+
+Use travel-rules MCP to format the final calendar blocks.
+
+Then use Google Calendar MCP to create the approved events.
+
+Calendar rules:
+- Use Europe/Paris timezone.
+- Use the title format: Paris Trip - [Activity Name]
+- Do not invite anyone.
+- Do not add video conferencing.
+- Add a short description to each event.
+- Create events only for main activities, meal breaks, and travel buffers.
+
+After creating the events, summarize:
+1. Event title
+2. Date
+3. Start and end time
+4. Location
